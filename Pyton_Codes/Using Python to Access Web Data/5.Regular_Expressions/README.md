@@ -1,3 +1,3 @@
 # Explicação dos programas que se encontram nesta pasta
 * [__ex_11.1.py__](https://github.com/Bombjack88/Python-for-Everybody--PY4E-/blob/main/Pyton_Codes/Using%20Python%20to%20Access%20Web%20Data/5.Regular_Expressions/ex_11.1.py) tem um exemplo de obtenção de todos os números de um texto e de os somar utilizando um ficheiros txt (libraries re)
-* [__examples_11.py](https://github.com/Bombjack88/Python-for-Everybody--PY4E-/tree/main/Pyton_Codes/Using%20Python%20to%20Access%20Web%20Data/5.Regular_Expressions) tem alguns exemplo de utilização considerando um texto escrito pelo próprio programa.
+* [__examples_11.py__](https://github.com/Bombjack88/Python-for-Everybody--PY4E-/tree/main/Pyton_Codes/Using%20Python%20to%20Access%20Web%20Data/5.Regular_Expressions) tem alguns exemplo de utilização considerando um texto escrito pelo próprio programa.
