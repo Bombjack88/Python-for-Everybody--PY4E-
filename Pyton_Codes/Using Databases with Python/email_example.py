@@ -26,7 +26,7 @@ for line in fh:
                     (email,))
     conn.commit() #escrever na base de dados os resultados, opção de fazer a cada loop, mas poderia ser a cada 10 loops por exemplo
 
-# https://www.sqlite.org/lang_select.html
+# https://www.sqlite.org/lang_select.html - exemplo de query à tabela counts agora criada
 sqlstr = 'SELECT email, count FROM Counts ORDER BY count DESC LIMIT 10'
 
 for row in cur.execute(sqlstr):
